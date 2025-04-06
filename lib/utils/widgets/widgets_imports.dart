@@ -13,3 +13,4 @@ part 'responsive/screens/mobile_layout.dart';
 part 'layouts/templates/site_layout.dart';
 part 'layouts/sidebars/sidebar.dart';
 part 'layouts/headers/header.dart';
+part 'common_widgets.dart';
